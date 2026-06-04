@@ -252,7 +252,7 @@ Hospital-Visit-Scheduling-System/
 - Backend Developer: [Your Name]
 
 ---
-👥 Users of the System
+## 👥 Users of the System
 1. Patient
 Register and Login
 Search Doctors
@@ -334,7 +334,7 @@ Doctor Management
 Appointment Monitoring
 System Overview Dashboard
 Report Generation
-📋 User–Module Mapping
+## 📋 User–Module Mapping
 Module
 Patient
 Doctor
