@@ -252,124 +252,47 @@ Hospital-Visit-Scheduling-System/
 - Backend Developer: [Your Name]
 
 ---
-## 👥 Users of the System
-1. Patient
-Register and Login
-Search Doctors
+## 👥 Users
+Patient
+Register/Login
 Book Appointments
 View Appointment Status
-View Visit History
-Cancel/Reschedule Appointments
-2. Doctor
-Login to System
-Manage Availability
-View Scheduled Appointments
-Update Appointment Status
-Access Patient Information
-Maintain Visit Records
-3. Administrator
+Track Visit History
+Doctor
+Manage Schedule
+View Appointments
+Update Visit Status
+Access Patient Records
+Administrator
 Manage Patients
 Manage Doctors
 Manage Appointments
-Monitor System Activities
 Generate Reports
-Manage User Accounts
-📦 Modules of the System
-1. User Authentication Module
-Purpose: Secure access to the system.
-Features:
-User Registration
-Login & Logout
-Password Encryption
-Role-Based Access Control
-Profile Management
+## 📦 Modules
+1. Authentication Module
+Secure login, registration, and role-based access.
 2. Patient Management Module
-Purpose: Manage patient information and records.
-Features:
-Patient Registration
-Patient Profile Management
-Medical History Storage
-Visit History Tracking
+Manage patient profiles and visit history.
 3. Doctor Management Module
-Purpose: Manage doctor details and schedules.
-Features:
-Add/Edit Doctor Information
-Manage Specializations
-Schedule Management
-Availability Tracking
+Manage doctor details, specialization, and availability.
 4. Appointment Scheduling Module
-Purpose: Handle appointment booking and management.
-Features:
-Book Appointments
-Cancel Appointments
-Reschedule Appointments
-Appointment Confirmation
-Time Slot Allocation
+Book, reschedule, cancel, and track appointments.
 5. Visit Tracking Module
-Purpose: Track patient visits and appointment progress.
-Features:
-Appointment Status Updates
-Check-In Tracking
-Visit Completion Tracking
-Patient Visit Records
+Monitor patient visits and appointment progress.
 6. Notification Module
-Purpose: Inform users about appointment activities.
-Features:
-Appointment Confirmation Notifications
-Reminder Notifications
-Status Change Notifications
-Email/SMS Alerts (Future Enhancement)
-7. Reporting and Analytics Module
-Purpose: Generate reports for hospital administration.
-Features:
-Daily Appointment Reports
-Doctor Performance Reports
-Patient Visit Statistics
-Appointment Summary Reports
+Send appointment confirmations and reminders.
+7. Reporting Module
+Generate appointment, doctor, and patient reports.
 8. Admin Dashboard Module
-Purpose: Centralized system administration.
-Features:
-User Management
-Doctor Management
-Appointment Monitoring
-System Overview Dashboard
+Centralized management of users, appointments, and system activities.
+## 🎯 Key Features
+Online Appointment Booking
+Real-Time Appointment Tracking
+Doctor Availability Management
+Patient Visit History
+Secure Authentication
 Report Generation
-## 📋 User–Module Mapping
-Module
-Patient
-Doctor
-Admin
-Authentication
-✅
-✅
-✅
-Patient Management
-✅
-✅ (View)
-✅
-Doctor Management
-❌
-✅
-✅
-Appointment Scheduling
-✅
-✅
-✅
-Visit Tracking
-✅
-✅
-✅
-Notifications
-✅
-✅
-✅
-Reports & Analytics
-❌
-✅
-✅
-Admin Dashboard
-❌
-❌
+User-Friendly Dashboard
 
 ## 📚 Academic Information
 
